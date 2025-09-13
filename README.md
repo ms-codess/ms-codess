@@ -46,23 +46,4 @@ Always learning, always creating.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MS-Tech&show_icons=true&theme=radical" height="160"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Tech&layout=compact&theme=radical" height="160"/>
-</p>
 
----
-
-## 🐍 Watch my contributions get eaten  
-![snake gif](https://github.com/MS-Tech/MS-Tech/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-here)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](your-portfolio-link-here)  
-
----
-
-⚡ *“Turning code into creativity, and ideas into impact.”*

@@ -1,5 +1,5 @@
  
-💻 **Software Developer | AI Explorer | Design Enthusiast | Cybersecurity Learner**  
+💻 **Software Developer | AI Explorer | Design Enthusiast 
 
 ---
 

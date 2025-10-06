@@ -1,5 +1,5 @@
  
-💻 Software Developer | AI Explorer | Design Enthusiast 
+💻 Software Developer | Machine Learning Enthusiast 
 
 ---
 

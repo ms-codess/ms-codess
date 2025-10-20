@@ -1,4 +1,4 @@
-# 💻 Software Developer | M.Sc. Artificial Intelligence | Applied ML & Data Enthusiast
+# 💻 Software Developer |Applied ML & Data Enthusiast
 
 ---
 

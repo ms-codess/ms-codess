@@ -8,7 +8,7 @@ My work bridges **software engineering**, **machine learning**, and **data analy
 
 I have hands-on experience in:
 - 🧠 Applied ML workflows (from preprocessing to deployment)  
-- 📝 Building AI-assisted web applications (e.g., JobTailor)  
+- 📝 Building AI-assisted web applications
 - 📊 Analyzing and visualizing complex datasets  
 - 🧰 Working with both enterprise systems and modern AI tools
 
@@ -16,7 +16,7 @@ I have hands-on experience in:
 
 ## 🧠 Core Focus Areas
 - End-to-end ML pipelines (data ingestion → preprocessing → modeling → deployment)  
-- Generative AI (Gemini) and NLP-based automation  
+- Generative AI and NLP-based automation  
 - Data analysis, feature engineering & model evaluation  
 - Full-stack integration of AI systems using Python & TypeScript
 
@@ -37,7 +37,7 @@ I have hands-on experience in:
 
 - Data analysis & visualization using **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**  
 - ML model development with **Scikit-learn** (classification, regression, clustering)  
-- Generative AI integration with **Gemini Pro**  
+- Generative AI integration  
 - End-to-end ML pipeline implementation & evaluation  
 - Exploratory data analysis (EDA), feature engineering, and data cleaning
 
@@ -48,7 +48,7 @@ I have hands-on experience in:
   <img src="https://skillicons.dev/icons?i=typescript,python,js,html,css,react,nextjs,nodejs" />
 </p>
 
-- **Languages:** Python, TypeScript, JavaScript, SQL, HTML, CSS, Java  
+- **Languages:** Python, TypeScript, JavaScript, SQL, HTML, CSS, Java, Peoplecode  
 - **Frameworks & Tools:** Next.js, React, Node.js, Streamlit  
 - API integration and full-stack web application development  
 - ML model integration into production-ready applications

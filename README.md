@@ -1,8 +1,8 @@
-# 💻 Software Developer |Applied ML & Data Enthusiast
+# 💻 Software Developer |Applied ML & Data 
 
 ---
 
-## 🚀 About Me
+##  About Me
 I’m an intermediate software developer currently pursuing a **Master’s in Artificial Intelligence at the University of Ottawa**.  
 My work bridges **software engineering**, **machine learning**, and **data analytics**.
 

@@ -1,5 +1,4 @@
-# 💻 Software Developer |Applied ML & Data 
-
+# 💻 Transitioning from Full-Stack Developer to AI Engineer
 ---
 
 ##  About Me

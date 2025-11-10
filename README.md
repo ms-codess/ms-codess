@@ -1,4 +1,4 @@
-# 💻 Transitioning from Full-Stack Developer to AI Engineer
+# 💻 Transitioning from Full-Stack Development to Artifical Intelligence
 ---
 
 ##  About Me
@@ -6,14 +6,13 @@ I’m an intermediate software developer currently pursuing a **Master’s in Ar
 My work bridges **software engineering**, **machine learning**, and **data analytics**.
 
 I have hands-on experience in:
-- 🧠 Applied ML workflows (from preprocessing to deployment)  
-- 📝 Building AI-assisted web applications
-- 📊 Analyzing and visualizing complex datasets  
-- 🧰 Working with both enterprise systems and modern AI tools
+- Applied ML workflows (from preprocessing to deployment)  
+- Building AI-assisted web applications
+- Analyzing and visualizing complex datasets  
 
 ---
 
-## 🧠 Core Focus Areas
+##  Core Focus Areas
 - End-to-end ML pipelines (data ingestion → preprocessing → modeling → deployment)  
 - Generative AI and NLP-based automation  
 - Data analysis, feature engineering & model evaluation  
@@ -23,7 +22,7 @@ I have hands-on experience in:
 
 ## 🛠️ Skills
 
-### 🧠 Machine Learning & Data Analysis
+###  Machine Learning & Data Analysis
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -42,7 +41,7 @@ I have hands-on experience in:
 
 ---
 
-### 💻 Software Development
+###  Software Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,python,js,html,css,react,nextjs,nodejs" />
 </p>
@@ -54,7 +53,7 @@ I have hands-on experience in:
 
 ---
 
-### 🗄️ Databases & Enterprise Tech
+###  Databases & Enterprise Tech
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PeopleSoft-003B57?style=for-the-badge&logo=ibm&logoColor=white" />
@@ -67,7 +66,7 @@ I have hands-on experience in:
 
 ---
 
-### ⚙️ Tools, Deployment & MLOps
+###  Tools, Deployment & MLOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel" />
   <img src="https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -80,7 +79,7 @@ I have hands-on experience in:
 
 ---
 
-### 🎨 Design & Prototyping
+###  Design & Prototyping
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>

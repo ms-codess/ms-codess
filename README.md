@@ -1,4 +1,4 @@
-# 💻 Transitioning from Full-Stack Development to Artifical Intelligence
+# 💻 Transitioning from Full-Stack Development to Artificial Intelligence
 ---
 
 ##  About Me

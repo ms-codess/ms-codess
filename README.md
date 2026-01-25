@@ -8,14 +8,14 @@ I’m an intermediate software developer currently pursuing a **Master’s in Ar
 
 My background combines **software engineering**, **data analysis**, and **applied machine learning**, with a strong focus on building **practical, data-driven systems** rather than research-heavy models or infrastructure.
 
-I enjoy working at the intersection of **data, ML, and real products** — taking messy inputs, structuring them, and turning them into usable outputs.
+I enjoy working at the intersection of **data, ML, and real products**.
 
 ---
 
 ## What I Focus On
 
-* Building **end-to-end ML workflows** (data ingestion → preprocessing → modeling → evaluation)
-* Applied machine learning and analytics (not heavy cloud or infra)
+* Building **end-to-end ML workflows** 
+* Applied machine learning and analytics 
 * Integrating ML and AI into user-facing applications
 * Working with real datasets, tradeoffs, and imperfect data
 
@@ -80,7 +80,7 @@ I enjoy working at the intersection of **data, ML, and real products** — takin
 
 * Version control with Git & GitHub
 * Deploying data and ML apps using Vercel and Streamlit Cloud
-* Lightweight CI/CD for ML applications
+* CI/CD for ML applications
 * Focus on simplicity and reproducibility
 
 ---
@@ -96,15 +96,6 @@ I enjoy working at the intersection of **data, ML, and real products** — takin
 
 ---
 
-## 🧭 How I Work
-
-* I prioritize **understanding the data before modeling**
-* I prefer **simple, explainable models** over complexity
-* I value **clarity, structure, and reliability** in ML systems
-
----
-
-## Current Direction
 
 I’m actively developing skills and projects toward roles such as:
 

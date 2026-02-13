@@ -1,6 +1,5 @@
 
 
-# 💻 From Full-Stack Development to Applied Machine Learning
 
 ## About Me
 

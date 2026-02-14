@@ -3,7 +3,7 @@
 
 ## About Me
 
-I’m an intermediate software developer currently pursuing a **Master’s in Artificial Intelligence at the University of Ottawa**.
+I’m an intermediate software developer currently pursuing a **Master’s in Artificial Intelligence**.
 
 My background combines **software engineering**, **data analysis**, and **applied machine learning**, with a strong focus on building **practical, data-driven systems** rather than research-heavy models or infrastructure.
 

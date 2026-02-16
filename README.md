@@ -93,14 +93,6 @@ I enjoy working at the intersection of **data, ML, and real products**.
 * UI/UX prototyping with Figma
 * Designing simple, clear interfaces for data and AI products
 
----
-
-
-I’m actively developing skills and projects toward roles such as:
-
-* **Data Scientist**
-* **Applied Data Scientist**
-* **Machine Learning Engineer (product-focused)**
 
 
 

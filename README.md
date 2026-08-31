@@ -3,7 +3,7 @@
 
 ## About Me
 
-I’m an Applied Machine Learning developer holding a **Master’s in Artificial Intelligence**.
+I’m an Applied Machine Learning engineer holding a **Master’s in Artificial Intelligence**.
 
 My background combines **software engineering**, **data analysis**, and **applied machine learning**, with a strong focus on building **practical, data-driven systems** rather than research-heavy models or infrastructure.
 
